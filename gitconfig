@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = romain.a.berrou@gmail.com
-	name = Romain Berrou
+	email = romain.a.berrou<é\"@gmail.com
+	name = romain berrou
